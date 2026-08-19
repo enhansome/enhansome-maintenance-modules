@@ -14,7 +14,7 @@ A package.json file scrubber for the truly insane. Cleans up your package.json i
 npm i fixpack --save-dev
 ```
 
-### [standard](https://github.com/feross/standard) ⭐ 29,429 | 🐛 130 | 🌐 JavaScript | 📅 2025-07-11 by [feross](https://www.npmjs.com/~feross)
+### [standard](https://github.com/feross/standard) ⭐ 29,426 | 🐛 130 | 🌐 JavaScript | 📅 2025-07-11 by [feross](https://www.npmjs.com/~feross)
 
 JavaScript standard style checker/linter. No options allowed! Uses non-configurable opinionated settings to minimize bikeshedding. Never give style feedback on a pull request again!
 
@@ -62,7 +62,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,298 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-17 by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,298 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-18 by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
@@ -102,7 +102,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,985 | 🐛 404 | 🌐 JavaScript | 📅 2026-08-18 by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 23,987 | 🐛 405 | 🌐 JavaScript | 📅 2026-08-18 by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
@@ -134,7 +134,7 @@ Command-line tool to quickly create a new node module with readme, license, cont
 npm i module-init -g
 ```
 
-### [gh-release](https://github.com/ngoldman/gh-release) ⭐ 151 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-11 by [ngoldman](https://www.npmjs.com/~ngoldman)
+### [gh-release](https://github.com/ngoldman/gh-release) ⭐ 151 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 by [ngoldman](https://www.npmjs.com/~ngoldman)
 
 Create a release for a node package on GitHub. Uses the Github Releases API to create a new release. Defaults to using information from package.json and CHANGELOG.md.
 
@@ -142,7 +142,7 @@ Create a release for a node package on GitHub. Uses the Github Releases API to c
 npm i gh-release -g
 ```
 
-### [XO](https://github.com/sindresorhus/xo) ⭐ 7,992 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [XO](https://github.com/sindresorhus/xo) ⭐ 7,993 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 JavaScript happiness style linter. Enforce strict code style. No decision-making. No config. It just works!
 
@@ -170,4 +170,4 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
