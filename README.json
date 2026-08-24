@@ -1,7 +1,284 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "A package.json file scrubber for the truly insane. Cleans up your package.json in a deterministic way to ensure high quality, handcrafted, artisinal JSON.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 16430137,
+            "language": "JavaScript",
+            "last_commit": "2022-03-02T01:44:51Z",
+            "owner": "HenrikJoreteg",
+            "repo": "fixpack",
+            "stars": 456
+          },
+          "title": "fixpack by henrikjoreteg"
+        },
+        {
+          "children": [],
+          "description": "JavaScript standard style checker/linter. No options allowed! Uses non-configurable opinionated settings to minimize bikeshedding. Never give style feedback on a pull request again!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 29891188,
+            "language": "JavaScript",
+            "last_commit": "2025-07-11T08:28:23Z",
+            "owner": "standard",
+            "repo": "standard",
+            "stars": 29429
+          },
+          "title": "standard by feross"
+        },
+        {
+          "children": [],
+          "description": "Checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json (or vice versa).",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 20819987,
+            "language": "JavaScript",
+            "last_commit": "2024-03-13T20:24:16Z",
+            "owner": "dependency-check-team",
+            "repo": "dependency-check",
+            "stars": 550
+          },
+          "title": "dependency-check by maxogden"
+        },
+        {
+          "children": [],
+          "description": "Helper tool for the usual steps to create a module. Creates empty github repo, generates module boilerplate, runs npm init, does first commit + push, etc.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 27565550,
+            "language": "JavaScript",
+            "last_commit": "2015-09-05T00:03:01Z",
+            "owner": "finnp",
+            "repo": "create-module",
+            "stars": 32
+          },
+          "title": "create-module by finnp"
+        },
+        {
+          "children": [],
+          "description": "A command line module for travis, especially targeted for managing tests for node modules. Helps you quickly add a travis hook + generate a travis badge for your readme.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 20727508,
+            "language": "JavaScript",
+            "last_commit": "2019-01-07T02:38:12Z",
+            "owner": "finnp",
+            "repo": "node-travisjs",
+            "stars": 28
+          },
+          "title": "travisjs by finnp"
+        },
+        {
+          "children": [],
+          "description": "Deploy to gh-pages with one command. Lets you add static build settings into your package.json and then automatically build, deploy and push to gh-pages from master using this module.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 24308450,
+            "language": "JavaScript",
+            "last_commit": "2019-06-25T12:25:21Z",
+            "owner": "meandavejustice",
+            "repo": "gh-pages-deploy",
+            "stars": 208
+          },
+          "title": "gh-pages-deploy by meandave"
+        },
+        {
+          "children": [],
+          "description": "Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 9892007,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T22:54:04Z",
+            "owner": "tgvashworth",
+            "repo": "npm-release",
+            "stars": 103
+          },
+          "title": "npm-release by phuu"
+        },
+        {
+          "children": [],
+          "description": "Find newer versions of dependencies than what your package.json allows.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 12658090,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:07:35Z",
+            "owner": "raineorshine",
+            "repo": "npm-check-updates",
+            "stars": 10301
+          },
+          "title": "npm-check-updates by tjunnone"
+        },
+        {
+          "children": [],
+          "description": "Node Package Editor: a CLI for one-off inspection and editing of properties in package.json files. Lets you avoid having to hand-edit JSON.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 20623707,
+            "language": "JavaScript",
+            "last_commit": "2022-05-25T16:48:08Z",
+            "owner": "zeke",
+            "repo": "npe",
+            "stars": 92
+          },
+          "title": "npe by zeke"
+        },
+        {
+          "children": [],
+          "description": "Generate a README.md from package.json contents. With npm modules, lots of info can be gleaned from properties in the package.json file: name, description, scripts.test, preferGlobal, etc. That's why package-json-to-readme exists. Use it to generate a decent boilerplate README, then iterate from there.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 20032978,
+            "language": "JavaScript",
+            "last_commit": "2022-05-25T16:49:55Z",
+            "owner": "zeke",
+            "repo": "package-json-to-readme",
+            "stars": 401
+          },
+          "title": "package-json-to-readme by zeke"
+        },
+        {
+          "children": [],
+          "description": "Open the npm package URL in your browser that matches your shell's current working directory.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 29416055,
+            "language": "JavaScript",
+            "last_commit": "2022-05-25T16:48:59Z",
+            "owner": "zeke",
+            "repo": "npmwd",
+            "stars": 4
+          },
+          "title": "npmwd by zeke"
+        },
+        {
+          "children": [],
+          "description": "Release manager for npm, bower, component, PyPI, git tags, and any plugin you can write. Publish to multiple package repositories at once.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 15002849,
+            "language": "JavaScript",
+            "last_commit": "2022-04-26T02:49:24Z",
+            "owner": "twolfson",
+            "repo": "foundry",
+            "stars": 41
+          },
+          "title": "foundry by twolfson"
+        },
+        {
+          "children": [],
+          "description": "Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 24063576,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T11:08:50Z",
+            "owner": "semantic-release",
+            "repo": "semantic-release",
+            "stars": 23999
+          },
+          "title": "semantic-release by boennemann"
+        },
+        {
+          "children": [],
+          "description": "Easily add new collaborators to your github repos + npm packages from the CLI, and then generate a file with the newly updated list of collaborators. Use this to add new maintainers to your projects.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 19079785,
+            "language": "JavaScript",
+            "last_commit": "2016-11-29T13:27:58Z",
+            "owner": "max-mapper",
+            "repo": "collaborator",
+            "stars": 46
+          },
+          "title": "collaborator by maxogden"
+        },
+        {
+          "children": [],
+          "description": "Command-line tool to quickly create a new node module with readme, license, contributing guidelines, and other goodies.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 33472903,
+            "language": "JavaScript",
+            "last_commit": "2017-02-05T01:08:05Z",
+            "owner": "ungoldman",
+            "repo": "module-init",
+            "stars": 71
+          },
+          "title": "module-init by ngoldman"
+        },
+        {
+          "children": [],
+          "description": "Create a release for a node package on GitHub. Uses the Github Releases API to create a new release. Defaults to using information from package.json and CHANGELOG.md.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 30472513,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T17:00:22Z",
+            "owner": "ungoldman",
+            "repo": "gh-release",
+            "stars": 151
+          },
+          "title": "gh-release by ngoldman"
+        },
+        {
+          "children": [],
+          "description": "JavaScript happiness style linter. Enforce strict code style. No decision-making. No config. It just works!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 40053602,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T23:27:31Z",
+            "owner": "xojs",
+            "repo": "xo",
+            "stars": 7994
+          },
+          "title": "XO by sindresorhus"
+        },
+        {
+          "children": [],
+          "description": "A better . Runs your tests before publishing, bumps version, pushes git commits/tags, and more.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 40806530,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T22:35:40Z",
+            "owner": "sindresorhus",
+            "repo": "np",
+            "stars": 7712
+          },
+          "title": "np by sindresorhus"
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:35:08.134Z",
+    "last_updated": "2026-08-24T14:27:05.414Z",
     "original_repository": "maxogden/maintenance-modules",
     "original_repository_id": 29893727,
     "original_repository_sha": "7d0f4c1be06f1f77976df477cf5ac39c525e1adb",
