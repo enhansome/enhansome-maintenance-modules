@@ -14,7 +14,7 @@ A package.json file scrubber for the truly insane. Cleans up your package.json i
 npm i fixpack --save-dev
 ```
 
-### [standard](https://github.com/feross/standard) ⭐ 29,427 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11 by [feross](https://www.npmjs.com/~feross)
+### [standard](https://github.com/feross/standard) ⭐ 29,429 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11 by [feross](https://www.npmjs.com/~feross)
 
 JavaScript standard style checker/linter. No options allowed! Uses non-configurable opinionated settings to minimize bikeshedding. Never give style feedback on a pull request again!
 
@@ -62,7 +62,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,298 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-18 by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,298 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-23 by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
@@ -150,7 +150,7 @@ JavaScript happiness style linter. Enforce strict code style. No decision-making
 npm i xo -g
 ```
 
-### [np](https://github.com/sindresorhus/np) ⭐ 7,711 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-30 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [np](https://github.com/sindresorhus/np) ⭐ 7,712 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-30 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 A better `npm publish`. Runs your tests before publishing, bumps version, pushes git commits/tags, and more.
 
@@ -170,4 +170,4 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
