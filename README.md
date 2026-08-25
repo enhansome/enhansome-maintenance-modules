@@ -62,7 +62,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,301 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-24 by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,301 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-25 by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 

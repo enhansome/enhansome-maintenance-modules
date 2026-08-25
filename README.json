@@ -116,7 +116,7 @@
             "archived": false,
             "id": 12658090,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:07:35Z",
+            "last_commit": "2026-08-25T05:25:33Z",
             "owner": "raineorshine",
             "repo": "npm-check-updates",
             "stars": 10301
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:21:51.860Z",
+    "last_updated": "2026-08-25T06:21:30.591Z",
     "original_repository": "maxogden/maintenance-modules",
     "original_repository_id": 29893727,
     "original_repository_sha": "7d0f4c1be06f1f77976df477cf5ac39c525e1adb",
