@@ -29,7 +29,7 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29429
+            "stars": 29430
           },
           "title": "standard by feross"
         },
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-22T11:08:50Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 23999
+            "stars": 24003
           },
           "title": "semantic-release by boennemann"
         },
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:27:05.414Z",
+    "last_updated": "2026-08-25T02:21:51.860Z",
     "original_repository": "maxogden/maintenance-modules",
     "original_repository_id": 29893727,
     "original_repository_sha": "7d0f4c1be06f1f77976df477cf5ac39c525e1adb",
