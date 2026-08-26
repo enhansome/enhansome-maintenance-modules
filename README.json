@@ -116,10 +116,10 @@
             "archived": false,
             "id": 12658090,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:25:33Z",
+            "last_commit": "2026-08-25T20:12:46Z",
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10301
+            "stars": 10302
           },
           "title": "npm-check-updates by tjunnone"
         },
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-22T11:08:50Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24003
+            "stars": 24004
           },
           "title": "semantic-release by boennemann"
         },
@@ -236,7 +236,7 @@
             "archived": false,
             "id": 30472513,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:00:22Z",
+            "last_commit": "2026-08-25T14:32:57Z",
             "owner": "ungoldman",
             "repo": "gh-release",
             "stars": 151
@@ -269,7 +269,7 @@
             "last_commit": "2026-07-30T22:35:40Z",
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7712
+            "stars": 7711
           },
           "title": "np by sindresorhus"
         }
@@ -278,7 +278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:30.591Z",
+    "last_updated": "2026-08-26T02:37:08.570Z",
     "original_repository": "maxogden/maintenance-modules",
     "original_repository_id": 29893727,
     "original_repository_sha": "7d0f4c1be06f1f77976df477cf5ac39c525e1adb",
