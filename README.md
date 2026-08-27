@@ -14,7 +14,7 @@ A package.json file scrubber for the truly insane. Cleans up your package.json i
 npm i fixpack --save-dev
 ```
 
-### [standard](https://github.com/feross/standard) ⭐ 29,430 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11 by [feross](https://www.npmjs.com/~feross)
+### [standard](https://github.com/feross/standard) ⭐ 29,428 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11 by [feross](https://www.npmjs.com/~feross)
 
 JavaScript standard style checker/linter. No options allowed! Uses non-configurable opinionated settings to minimize bikeshedding. Never give style feedback on a pull request again!
 
@@ -62,7 +62,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,303 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-26 by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,304 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-26 by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
