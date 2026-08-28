@@ -16,7 +16,8 @@
             "repo": "fixpack",
             "stars": 456
           },
-          "title": "fixpack by henrikjoreteg"
+          "title": "fixpack by henrikjoreteg",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "standard",
             "stars": 29428
           },
-          "title": "standard by feross"
+          "title": "standard by feross",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "dependency-check",
             "stars": 550
           },
-          "title": "dependency-check by maxogden"
+          "title": "dependency-check by maxogden",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "create-module",
             "stars": 32
           },
-          "title": "create-module by finnp"
+          "title": "create-module by finnp",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "node-travisjs",
             "stars": 28
           },
-          "title": "travisjs by finnp"
+          "title": "travisjs by finnp",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "gh-pages-deploy",
             "stars": 208
           },
-          "title": "gh-pages-deploy by meandave"
+          "title": "gh-pages-deploy by meandave",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -106,7 +112,8 @@
             "repo": "npm-release",
             "stars": 103
           },
-          "title": "npm-release by phuu"
+          "title": "npm-release by phuu",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -121,7 +128,8 @@
             "repo": "npm-check-updates",
             "stars": 10304
           },
-          "title": "npm-check-updates by tjunnone"
+          "title": "npm-check-updates by tjunnone",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -136,7 +144,8 @@
             "repo": "npe",
             "stars": 92
           },
-          "title": "npe by zeke"
+          "title": "npe by zeke",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -151,7 +160,8 @@
             "repo": "package-json-to-readme",
             "stars": 401
           },
-          "title": "package-json-to-readme by zeke"
+          "title": "package-json-to-readme by zeke",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -166,7 +176,8 @@
             "repo": "npmwd",
             "stars": 4
           },
-          "title": "npmwd by zeke"
+          "title": "npmwd by zeke",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -181,7 +192,8 @@
             "repo": "foundry",
             "stars": 41
           },
-          "title": "foundry by twolfson"
+          "title": "foundry by twolfson",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -191,12 +203,13 @@
             "archived": false,
             "id": 24063576,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:54:52Z",
+            "last_commit": "2026-08-28T10:49:00Z",
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24007
+            "stars": 24013
           },
-          "title": "semantic-release by boennemann"
+          "title": "semantic-release by boennemann",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -211,7 +224,8 @@
             "repo": "collaborator",
             "stars": 46
           },
-          "title": "collaborator by maxogden"
+          "title": "collaborator by maxogden",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -226,7 +240,8 @@
             "repo": "module-init",
             "stars": 71
           },
-          "title": "module-init by ngoldman"
+          "title": "module-init by ngoldman",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -241,7 +256,8 @@
             "repo": "gh-release",
             "stars": 151
           },
-          "title": "gh-release by ngoldman"
+          "title": "gh-release by ngoldman",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -256,7 +272,8 @@
             "repo": "xo",
             "stars": 7993
           },
-          "title": "XO by sindresorhus"
+          "title": "XO by sindresorhus",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         },
         {
           "children": [],
@@ -271,14 +288,15 @@
             "repo": "np",
             "stars": 7712
           },
-          "title": "np by sindresorhus"
+          "title": "np by sindresorhus",
+          "first_seen": "2026-08-28T12:40:51.569Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:24.478Z",
+    "last_updated": "2026-08-28T12:40:51.569Z",
     "original_repository_info": {
       "archived": false,
       "id": 29893727,
