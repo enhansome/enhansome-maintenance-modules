@@ -9,12 +9,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A package.json file scrubber for the truly insane.",
+            "homepage": null,
             "id": 16430137,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-03-02T01:44:51Z",
+            "open_issues": 18,
             "owner": "HenrikJoreteg",
             "repo": "fixpack",
-            "stars": 456
+            "stars": 456,
+            "topics": []
           },
           "title": "fixpack by henrikjoreteg",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -25,12 +30,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer",
+            "homepage": "https://standardjs.com",
             "id": 29891188,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-11T08:28:23Z",
+            "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29428
+            "stars": 29428,
+            "topics": [
+              "development",
+              "ecmascript",
+              "es6",
+              "eslint",
+              "javascript",
+              "linter",
+              "nodejs",
+              "standard",
+              "static-code-analysis",
+              "style-guide"
+            ]
           },
           "title": "standard by feross",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -41,12 +62,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json",
+            "homepage": "https://npmjs.org/dependency-check",
             "id": 20819987,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-03-13T20:24:16Z",
+            "open_issues": 0,
             "owner": "dependency-check-team",
             "repo": "dependency-check",
-            "stars": 550
+            "stars": 550,
+            "topics": [
+              "dependencies",
+              "detective",
+              "lint",
+              "npm",
+              "package-json"
+            ]
           },
           "title": "dependency-check by maxogden",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -57,12 +89,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Helper to create a module",
+            "homepage": null,
             "id": 27565550,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-09-05T00:03:01Z",
+            "open_issues": 6,
             "owner": "finnp",
             "repo": "create-module",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "title": "create-module by finnp",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -73,12 +110,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "travisify with travis API instead of github hooks",
+            "homepage": null,
             "id": 20727508,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-01-07T02:38:12Z",
+            "open_issues": 6,
             "owner": "finnp",
             "repo": "node-travisjs",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "title": "travisjs by finnp",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -89,12 +131,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "publish to gh-pages from package.json",
+            "homepage": "http://davejustice.com/gh-pages-deploy/",
             "id": 24308450,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-25T12:25:21Z",
+            "open_issues": 12,
             "owner": "meandavejustice",
             "repo": "gh-pages-deploy",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "title": "gh-pages-deploy by meandave",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -105,12 +152,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Making releasing to npm so easy a kitten could probably do it™",
+            "homepage": null,
             "id": 9892007,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-15T22:54:04Z",
+            "open_issues": 1,
             "owner": "tgvashworth",
             "repo": "npm-release",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "title": "npm-release by phuu",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -121,12 +173,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Find newer versions of package dependencies than what your package.json allows",
+            "homepage": null,
             "id": 12658090,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T06:03:27Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:23:17Z",
+            "open_issues": 56,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10304
+            "stars": 10304,
+            "topics": [
+              "npm",
+              "npm-check-updates"
+            ]
           },
           "title": "npm-check-updates by tjunnone",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -137,12 +197,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Node Package Editor: a CLI for one-off inspection and editing of properties in package.json files.",
+            "homepage": null,
             "id": 20623707,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-05-25T16:48:08Z",
+            "open_issues": 6,
             "owner": "zeke",
             "repo": "npe",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "title": "npe by zeke",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -153,12 +218,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Generate README.md from package.json contents",
+            "homepage": "npm.im/package-json-to-readme",
             "id": 20032978,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-05-25T16:49:55Z",
+            "open_issues": 8,
             "owner": "zeke",
             "repo": "package-json-to-readme",
-            "stars": 401
+            "stars": 401,
+            "topics": []
           },
           "title": "package-json-to-readme by zeke",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -169,12 +239,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 29416055,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-05-25T16:48:59Z",
+            "open_issues": 0,
             "owner": "zeke",
             "repo": "npmwd",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "title": "npmwd by zeke",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -185,12 +260,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Release manager for npm, bower, component, PyPI, git tags, and any command you want",
+            "homepage": null,
             "id": 15002849,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2022-04-26T02:49:24Z",
+            "open_issues": 6,
             "owner": "twolfson",
             "repo": "foundry",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "title": "foundry by twolfson",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -201,12 +281,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "📦🚀 Fully automated version management and package publishing",
+            "homepage": "https://semantic-release.org",
             "id": 24063576,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:49:00Z",
+            "open_issues": 404,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24013
+            "stars": 24015,
+            "topics": [
+              "automation",
+              "changelog",
+              "package",
+              "publish",
+              "release",
+              "release-automation",
+              "release-workflow",
+              "semantic-release",
+              "semantic-version",
+              "semver",
+              "semver-release",
+              "version"
+            ]
           },
           "title": "semantic-release by boennemann",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -217,12 +315,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "easily add new collaborators to your github repos from the CLI",
+            "homepage": null,
             "id": 19079785,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-29T13:27:58Z",
+            "open_issues": 0,
             "owner": "max-mapper",
             "repo": "collaborator",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "title": "collaborator by maxogden",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -233,12 +336,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": ":checkered_flag: Create a new node module with all the right stuff.",
+            "homepage": null,
             "id": 33472903,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2017-02-05T01:08:05Z",
+            "open_issues": 0,
             "owner": "ungoldman",
             "repo": "module-init",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "automate",
+              "automation",
+              "create",
+              "creation",
+              "init",
+              "module",
+              "package"
+            ]
           },
           "title": "module-init by ngoldman",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -249,12 +365,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🚀 Create a GitHub Release for a Node package.",
+            "homepage": null,
             "id": 30472513,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2026-08-25T14:32:57Z",
+            "open_issues": 0,
             "owner": "ungoldman",
             "repo": "gh-release",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "changelog",
+              "github",
+              "node",
+              "release",
+              "semver",
+              "tag"
+            ]
           },
           "title": "gh-release by ngoldman",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -265,12 +393,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults",
+            "homepage": null,
             "id": 40053602,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T23:27:31Z",
+            "open_issues": 3,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7993
+            "stars": 7993,
+            "topics": [
+              "best-practices",
+              "code-style",
+              "eslint",
+              "eslint-plugin",
+              "eslint-rules",
+              "linter",
+              "nodejs",
+              "shareable-configs",
+              "style-linter",
+              "unicorns",
+              "xo"
+            ]
           },
           "title": "XO by sindresorhus",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -281,12 +426,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A better `npm publish`",
+            "homepage": null,
             "id": 40806530,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-30T22:35:40Z",
+            "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7712
+            "stars": 7712,
+            "topics": [
+              "cli",
+              "cli-app",
+              "javascript",
+              "nodejs",
+              "npm",
+              "npm-package",
+              "npm-publish",
+              "publish",
+              "yarn"
+            ]
           },
           "title": "np by sindresorhus",
           "first_seen": "2026-08-28T12:40:51.569Z"
@@ -296,15 +456,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:40:51.569Z",
+    "last_updated": "2026-08-29T04:45:57.728Z",
     "original_repository_info": {
       "archived": false,
+      "description": "a list of modules that are useful for maintaining or developing modules",
+      "homepage": null,
       "id": 29893727,
       "language": null,
+      "license": null,
       "last_commit": "2016-05-19T16:35:25Z",
+      "open_issues": 3,
       "owner": "max-mapper",
       "repo": "maintenance-modules",
-      "stars": 361
+      "stars": 361,
+      "topics": []
     },
     "original_repository_sha": "7d0f4c1be06f1f77976df477cf5ac39c525e1adb",
     "enhanced_repository": "enhansome/enhansome-maintenance-modules",
