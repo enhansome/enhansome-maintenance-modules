@@ -15,7 +15,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2022-03-02T01:44:51Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "HenrikJoreteg",
             "repo": "fixpack",
             "stars": 456,
@@ -286,8 +286,8 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T10:49:00Z",
-            "open_issues": 404,
+            "last_commit": "2026-08-29T20:20:35Z",
+            "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
             "stars": 24015,
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:48:56.914Z",
+    "last_updated": "2026-08-30T06:32:18.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",

@@ -6,7 +6,7 @@ There is no code in this module, the only thing is this README file.
 
 This is a list of modules that are useful for maintaining or developing modules (in no particular order).
 
-### [fixpack](https://github.com/henrikjoreteg/fixpack) ⭐ 456 | 🐛 18 | 🌐 JavaScript | 📅 2022-03-02 by [henrikjoreteg](https://www.npmjs.com/~henrikjoreteg)
+### [fixpack](https://github.com/henrikjoreteg/fixpack) ⭐ 456 | 🐛 17 | 🌐 JavaScript | 📅 2022-03-02 by [henrikjoreteg](https://www.npmjs.com/~henrikjoreteg)
 
 A package.json file scrubber for the truly insane. Cleans up your package.json in a deterministic way to ensure high quality, handcrafted, artisinal JSON.
 
@@ -102,7 +102,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,015 | 🐛 404 | 🌐 JavaScript | 📅 2026-08-28 by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,015 | 🐛 403 | 🌐 JavaScript | 📅 2026-08-29 by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
@@ -170,4 +170,4 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
