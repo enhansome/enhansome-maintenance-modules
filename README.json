@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29434,
+            "stars": 29437,
             "topics": [
               "development",
               "ecmascript",
@@ -290,7 +290,7 @@
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24013,
+            "stars": 24012,
             "topics": [
               "automation",
               "changelog",
@@ -435,7 +435,7 @@
             "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7712,
+            "stars": 7713,
             "topics": [
               "cli",
               "cli-app",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T06:57:23.780Z",
+    "last_updated": "2026-09-01T06:12:24.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
