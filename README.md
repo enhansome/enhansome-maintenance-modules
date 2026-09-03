@@ -14,7 +14,7 @@ A package.json file scrubber for the truly insane. Cleans up your package.json i
 npm i fixpack --save-dev
 ```
 
-### [standard](https://github.com/feross/standard) ⭐ 29,434 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11 by [feross](https://www.npmjs.com/~feross)
+### [standard](https://github.com/feross/standard) ⭐ 29,432 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11 by [feross](https://www.npmjs.com/~feross)
 
 JavaScript standard style checker/linter. No options allowed! Uses non-configurable opinionated settings to minimize bikeshedding. Never give style feedback on a pull request again!
 
@@ -62,7 +62,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,304 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-01 by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,305 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-03 by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
@@ -102,7 +102,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,011 | 🐛 403 | 🌐 JavaScript | 📅 2026-08-29 by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,016 | 🐛 404 | 🌐 JavaScript | 📅 2026-09-03 by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
@@ -170,4 +170,4 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
