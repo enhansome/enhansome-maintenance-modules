@@ -287,10 +287,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-03T03:49:32Z",
-            "open_issues": 404,
+            "open_issues": 405,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24021,
+            "stars": 24024,
             "topics": [
               "automation",
               "changelog",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T05:46:03.385Z",
+    "last_updated": "2026-09-05T05:36:23.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
