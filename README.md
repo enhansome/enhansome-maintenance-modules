@@ -62,7 +62,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,310 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-03 by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,311 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-06 by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
@@ -102,7 +102,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,024 | 🐛 405 | 🌐 JavaScript | 📅 2026-09-05 by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,026 | 🐛 405 | 🌐 JavaScript | 📅 2026-09-05 by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
@@ -142,7 +142,7 @@ Create a release for a node package on GitHub. Uses the Github Releases API to c
 npm i gh-release -g
 ```
 
-### [XO](https://github.com/sindresorhus/xo) ⭐ 7,990 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [XO](https://github.com/sindresorhus/xo) ⭐ 7,991 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-29 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 JavaScript happiness style linter. Enforce strict code style. No decision-making. No config. It just works!
 
@@ -150,7 +150,7 @@ JavaScript happiness style linter. Enforce strict code style. No decision-making
 npm i xo -g
 ```
 
-### [np](https://github.com/sindresorhus/np) ⭐ 7,713 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-01 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [np](https://github.com/sindresorhus/np) ⭐ 7,714 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-01 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 A better `npm publish`. Runs your tests before publishing, bumps version, pushes git commits/tags, and more.
 
@@ -170,4 +170,4 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
