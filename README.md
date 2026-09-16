@@ -62,7 +62,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,316 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-14 by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,317 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-16 by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
@@ -78,7 +78,7 @@ Node Package Editor: a CLI for one-off inspection and editing of properties in p
 npm i npe -g
 ```
 
-### [package-json-to-readme](https://github.com/zeke/package-json-to-readme) ⭐ 400 | 🐛 8 | 🌐 JavaScript | 📅 2022-05-25 by [zeke](https://npmjs.org/~zeke)
+### [package-json-to-readme](https://github.com/zeke/package-json-to-readme) ⭐ 401 | 🐛 8 | 🌐 JavaScript | 📅 2022-05-25 by [zeke](https://npmjs.org/~zeke)
 
 Generate a README.md from package.json contents. With npm modules, lots of info can be gleaned from properties in the package.json file: name, description, scripts.test, preferGlobal, etc. That's why package-json-to-readme exists. Use it to generate a decent boilerplate README, then iterate from there.
 
@@ -102,7 +102,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,037 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-14 by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,037 | 🐛 406 | 🌐 JavaScript | 📅 2026-09-16 by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
@@ -142,7 +142,7 @@ Create a release for a node package on GitHub. Uses the Github Releases API to c
 npm i gh-release -g
 ```
 
-### [XO](https://github.com/sindresorhus/xo) ⭐ 7,990 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-29 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [XO](https://github.com/sindresorhus/xo) ⭐ 7,989 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-29 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 JavaScript happiness style linter. Enforce strict code style. No decision-making. No config. It just works!
 
@@ -170,4 +170,4 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

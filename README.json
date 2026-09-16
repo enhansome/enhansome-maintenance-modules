@@ -178,11 +178,11 @@
             "id": 12658090,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T06:43:59Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-16T05:05:45Z",
+            "open_issues": 31,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10316,
+            "stars": 10317,
             "topics": [
               "npm",
               "npm-check-updates"
@@ -227,7 +227,7 @@
             "open_issues": 8,
             "owner": "zeke",
             "repo": "package-json-to-readme",
-            "stars": 400,
+            "stars": 401,
             "topics": []
           },
           "title": "package-json-to-readme by zeke",
@@ -286,7 +286,7 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T20:06:10Z",
+            "last_commit": "2026-09-16T02:28:42Z",
             "open_issues": 406,
             "owner": "semantic-release",
             "repo": "semantic-release",
@@ -402,7 +402,7 @@
             "open_issues": 4,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7990,
+            "stars": 7989,
             "topics": [
               "best-practices",
               "code-style",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:05:59.146Z",
+    "last_updated": "2026-09-16T05:55:06.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
