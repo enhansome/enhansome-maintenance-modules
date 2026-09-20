@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29433,
+            "stars": 29434,
             "topics": [
               "development",
               "ecmascript",
@@ -182,7 +182,7 @@
             "open_issues": 29,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10317,
+            "stars": 10316,
             "topics": [
               "npm",
               "npm-check-updates"
@@ -286,11 +286,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T02:28:42Z",
+            "last_commit": "2026-09-19T10:08:15Z",
             "open_issues": 406,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24048,
+            "stars": 24051,
             "topics": [
               "automation",
               "changelog",
@@ -402,7 +402,7 @@
             "open_issues": 2,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7991,
+            "stars": 7990,
             "topics": [
               "best-practices",
               "code-style",
@@ -435,7 +435,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7713,
+            "stars": 7712,
             "topics": [
               "cli",
               "cli-app",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T05:44:31.901Z",
+    "last_updated": "2026-09-20T06:05:50.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
