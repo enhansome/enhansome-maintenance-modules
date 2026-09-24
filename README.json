@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29433,
+            "stars": 29435,
             "topics": [
               "development",
               "ecmascript",
@@ -178,8 +178,8 @@
             "id": 12658090,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T20:14:00Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-23T18:46:26Z",
+            "open_issues": 29,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
             "stars": 10316,
@@ -287,10 +287,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-22T07:33:01Z",
-            "open_issues": 402,
+            "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24059,
+            "stars": 24068,
             "topics": [
               "automation",
               "changelog",
@@ -435,7 +435,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7712,
+            "stars": 7713,
             "topics": [
               "cli",
               "cli-app",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:51:46.413Z",
+    "last_updated": "2026-09-24T06:04:59.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
