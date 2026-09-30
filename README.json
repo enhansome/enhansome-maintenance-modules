@@ -178,8 +178,8 @@
             "id": 12658090,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T06:04:11Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-29T20:14:00Z",
+            "open_issues": 34,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
             "stars": 10318,
@@ -290,7 +290,7 @@
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24071,
+            "stars": 24078,
             "topics": [
               "automation",
               "changelog",
@@ -435,7 +435,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7713,
+            "stars": 7712,
             "topics": [
               "cli",
               "cli-app",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:48:09.728Z",
+    "last_updated": "2026-09-30T06:36:47.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
