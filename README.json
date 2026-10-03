@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29429,
+            "stars": 29428,
             "topics": [
               "development",
               "ecmascript",
@@ -178,8 +178,8 @@
             "id": 12658090,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:19:20Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-02T10:34:51Z",
+            "open_issues": 37,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
             "stars": 10320,
@@ -227,7 +227,7 @@
             "open_issues": 8,
             "owner": "zeke",
             "repo": "package-json-to-readme",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "title": "package-json-to-readme by zeke",
@@ -286,11 +286,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T07:02:18Z",
+            "last_commit": "2026-10-02T17:30:13Z",
             "open_issues": 403,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24081,
+            "stars": 24082,
             "topics": [
               "automation",
               "changelog",
@@ -402,7 +402,7 @@
             "open_issues": 2,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7989,
+            "stars": 7988,
             "topics": [
               "best-practices",
               "code-style",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:56:48.311Z",
+    "last_updated": "2026-10-03T04:54:46.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
