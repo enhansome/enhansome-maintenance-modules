@@ -71,7 +71,7 @@
             "open_issues": 0,
             "owner": "dependency-check-team",
             "repo": "dependency-check",
-            "stars": 550,
+            "stars": 549,
             "topics": [
               "dependencies",
               "detective",
@@ -286,11 +286,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:30:13Z",
-            "open_issues": 403,
+            "last_commit": "2026-10-04T06:35:24Z",
+            "open_issues": 404,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24082,
+            "stars": 24083,
             "topics": [
               "automation",
               "changelog",
@@ -435,7 +435,7 @@
             "open_issues": 4,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7711,
+            "stars": 7710,
             "topics": [
               "cli",
               "cli-app",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:23:08.523Z",
+    "last_updated": "2026-10-04T06:45:45.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",

@@ -102,7 +102,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,082 | 🐛 403 | 🌐 JavaScript | 📅 2026-10-02 by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,083 | 🐛 404 | 🌐 JavaScript | 📅 2026-10-04 by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
@@ -150,7 +150,7 @@ JavaScript happiness style linter. Enforce strict code style. No decision-making
 npm i xo -g
 ```
 
-### [np](https://github.com/sindresorhus/np) ⭐ 7,711 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-09 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [np](https://github.com/sindresorhus/np) ⭐ 7,710 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-09 by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 A better `npm publish`. Runs your tests before publishing, bumps version, pushes git commits/tags, and more.
 
@@ -170,4 +170,4 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
