@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29427,
+            "stars": 29426,
             "topics": [
               "development",
               "ecmascript",
@@ -71,7 +71,7 @@
             "open_issues": 0,
             "owner": "dependency-check-team",
             "repo": "dependency-check",
-            "stars": 547,
+            "stars": 546,
             "topics": [
               "dependencies",
               "detective",
@@ -290,7 +290,7 @@
             "open_issues": 407,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24106,
+            "stars": 24111,
             "topics": [
               "automation",
               "changelog",
@@ -402,7 +402,7 @@
             "open_issues": 2,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7991,
+            "stars": 7992,
             "topics": [
               "best-practices",
               "code-style",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:49:14.645Z",
+    "last_updated": "2026-10-16T05:45:40.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
