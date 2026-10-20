@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29425,
+            "stars": 29426,
             "topics": [
               "development",
               "ecmascript",
@@ -71,7 +71,7 @@
             "open_issues": 0,
             "owner": "dependency-check-team",
             "repo": "dependency-check",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "dependencies",
               "detective",
@@ -182,7 +182,7 @@
             "open_issues": 34,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10319,
+            "stars": 10321,
             "topics": [
               "npm",
               "npm-check-updates"
@@ -227,7 +227,7 @@
             "open_issues": 8,
             "owner": "zeke",
             "repo": "package-json-to-readme",
-            "stars": 402,
+            "stars": 403,
             "topics": []
           },
           "title": "package-json-to-readme by zeke",
@@ -290,7 +290,7 @@
             "open_issues": 407,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24113,
+            "stars": 24114,
             "topics": [
               "automation",
               "changelog",
@@ -324,7 +324,7 @@
             "open_issues": 0,
             "owner": "max-mapper",
             "repo": "collaborator",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "title": "collaborator by maxogden",
@@ -402,7 +402,7 @@
             "open_issues": 3,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7992,
+            "stars": 7993,
             "topics": [
               "best-practices",
               "code-style",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:02:48.578Z",
+    "last_updated": "2026-10-20T05:55:12.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
@@ -468,7 +468,7 @@
       "open_issues": 3,
       "owner": "max-mapper",
       "repo": "maintenance-modules",
-      "stars": 360,
+      "stars": 361,
       "topics": []
     },
     "original_repository_sha": "7d0f4c1be06f1f77976df477cf5ac39c525e1adb",
