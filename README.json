@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29426,
+            "stars": 29424,
             "topics": [
               "development",
               "ecmascript",
@@ -161,7 +161,7 @@
             "open_issues": 1,
             "owner": "tgvashworth",
             "repo": "npm-release",
-            "stars": 103,
+            "stars": 102,
             "topics": []
           },
           "title": "npm-release by phuu",
@@ -179,7 +179,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T03:49:12Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
             "stars": 10320,
@@ -286,11 +286,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T02:27:51Z",
+            "last_commit": "2026-10-22T16:45:54Z",
             "open_issues": 407,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24121,
+            "stars": 24122,
             "topics": [
               "automation",
               "changelog",
@@ -402,7 +402,7 @@
             "open_issues": 3,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7994,
+            "stars": 7992,
             "topics": [
               "best-practices",
               "code-style",
@@ -432,10 +432,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-09T18:34:52Z",
-            "open_issues": 4,
+            "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7711,
+            "stars": 7710,
             "topics": [
               "cli",
               "cli-app",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:01:17.486Z",
+    "last_updated": "2026-10-23T05:57:27.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
