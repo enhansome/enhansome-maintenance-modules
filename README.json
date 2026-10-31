@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29426,
+            "stars": 29427,
             "topics": [
               "development",
               "ecmascript",
@@ -286,11 +286,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T12:28:26Z",
-            "open_issues": 405,
+            "last_commit": "2026-10-31T01:12:02Z",
+            "open_issues": 408,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24144,
+            "stars": 24150,
             "topics": [
               "automation",
               "changelog",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:59:47.793Z",
+    "last_updated": "2026-10-31T06:54:49.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
