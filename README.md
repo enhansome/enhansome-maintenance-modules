@@ -62,7 +62,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,323 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-27 by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates](https://github.com/tjunnone/npm-check-updates) ⭐ 10,323 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-31 by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
@@ -170,4 +170,4 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
