@@ -290,7 +290,7 @@
             "open_issues": 412,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24162,
+            "stars": 24164,
             "topics": [
               "automation",
               "changelog",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T07:12:16.347Z",
+    "last_updated": "2026-11-09T07:52:52.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
