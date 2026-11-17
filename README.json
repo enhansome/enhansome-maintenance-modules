@@ -39,7 +39,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29427,
+            "stars": 29426,
             "topics": [
               "development",
               "ecmascript",
@@ -71,7 +71,7 @@
             "open_issues": 0,
             "owner": "dependency-check-team",
             "repo": "dependency-check",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "dependencies",
               "detective",
@@ -182,7 +182,7 @@
             "open_issues": 49,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10330,
+            "stars": 10331,
             "topics": [
               "npm",
               "npm-check-updates"
@@ -286,11 +286,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T04:29:19Z",
+            "last_commit": "2026-11-17T04:46:05Z",
             "open_issues": 410,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24174,
+            "stars": 24177,
             "topics": [
               "automation",
               "changelog",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:53:17.298Z",
+    "last_updated": "2026-11-17T09:04:09.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
