@@ -182,7 +182,7 @@
             "open_issues": 49,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10332,
+            "stars": 10331,
             "topics": [
               "npm",
               "npm-check-updates"
@@ -286,11 +286,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T19:41:29Z",
-            "open_issues": 411,
+            "last_commit": "2026-11-18T22:11:44Z",
+            "open_issues": 413,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24180,
+            "stars": 24182,
             "topics": [
               "automation",
               "changelog",
@@ -435,7 +435,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7718,
+            "stars": 7717,
             "topics": [
               "cli",
               "cli-app",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T08:27:10.203Z",
+    "last_updated": "2026-11-19T08:40:06.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
