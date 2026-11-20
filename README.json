@@ -71,7 +71,7 @@
             "open_issues": 0,
             "owner": "dependency-check-team",
             "repo": "dependency-check",
-            "stars": 547,
+            "stars": 546,
             "topics": [
               "dependencies",
               "detective",
@@ -179,10 +179,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T20:14:23Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10331,
+            "stars": 10333,
             "topics": [
               "npm",
               "npm-check-updates"
@@ -286,11 +286,11 @@
             "id": 24063576,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T22:11:44Z",
-            "open_issues": 413,
+            "last_commit": "2026-11-19T22:56:27Z",
+            "open_issues": 410,
             "owner": "semantic-release",
             "repo": "semantic-release",
-            "stars": 24182,
+            "stars": 24186,
             "topics": [
               "automation",
               "changelog",
@@ -402,7 +402,7 @@
             "open_issues": 2,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7997,
+            "stars": 7996,
             "topics": [
               "best-practices",
               "code-style",
@@ -435,7 +435,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "np",
-            "stars": 7717,
+            "stars": 7716,
             "topics": [
               "cli",
               "cli-app",
@@ -456,7 +456,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T08:40:06.763Z",
+    "last_updated": "2026-11-20T08:24:19.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of modules that are useful for maintaining or developing modules",
